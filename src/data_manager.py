@@ -4,7 +4,7 @@ import requests
 
 def fetch_cern_data():
     url = "http://opendata.cern.ch/record/545/files/Dimuon_DoubleMu.csv"
-    filename = "Dimuon_DoubleMu.csv"
+    filename = "../Dimuon_DoubleMu.csv"
 
     if os.path.exists(filename):
         return filename

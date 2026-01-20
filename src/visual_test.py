@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from physics_engine import DataLoader
+from src.physics_engine import DataLoader
 
 
 def simulate_and_draw():
