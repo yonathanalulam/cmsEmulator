@@ -1,4 +1,4 @@
-# CERN CMS Particle Explorer ⚛️
+# CERN CMS Particle Emulator ⚛️
 
 I built this Python app to visualize **real** high-energy physics collisions from the Large Hadron Collider (LHC).
 
