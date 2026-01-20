@@ -12,7 +12,7 @@ class CMS_Simulation_App(QMainWindow):
     def __init__(self):
         super().__init__()
 
-        self.setWindowTitle("CERN CMS Explorer: Education Edition")
+        self.setWindowTitle("CERN CMS Explorer")
         self.resize(1600, 900)
         self.setStyleSheet("background-color: #1e1e1e; color: #eee; font-family: Segoe UI, Arial;")
 
